@@ -35,7 +35,7 @@
 
 @media(max-width: 767px) {
     .contact-form__info-link {
-        font-size: 19px;
+        font-size: 16px;
     }
 }
 
@@ -49,7 +49,7 @@
 
 @media(max-width: 767px) {
     .contact-form__header {
-        font-size: 19px;
+        font-size: 16px;
     }
 }
 
